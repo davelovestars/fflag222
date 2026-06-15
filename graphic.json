@@ -1,0 +1,13 @@
+{
+  "DFFlagDisableDPIScale": "True",
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FIntDebugForceMSAASamples": "1",
+  "DFFlagDebugPauseVoxelizer": "True",
+  "FIntFRMMaxGrassDistance": "0",
+  "FIntFRMMinGrassDistance": "0",
+  "FIntGrassMovementReducedMotionFactor": "0",
+  "DFIntCSGLevelOfDetailSwitchingDistance": "0",
+  "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
+  "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
+  "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0"
+}
