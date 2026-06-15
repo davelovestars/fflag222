@@ -1,0 +1,44 @@
+{
+  "DFFlagAnimatorRetargetInterpolateFKCorrection": false,
+  "FFlagAnimatorRetargetSkipLowerBodyIK": true,
+  "FFlagAnimatorRetargetSkipAnkleModification": true,
+  "FFlagRetargetingIgnoreLowWeightAnimation": true,
+
+  "FFlagSimAnimationConstraint": true,
+  "FFlagSimAnimationConstraintRig": true,
+  "FFlagSimSkeletonAnimationConstraint": true,
+  "DFIntSimAnimationConstraintResponsiveness": 0,
+  "FFlagSimStepPhysicsSupportSelectiveAnimation": true,
+
+  "FFlagProcessAnimationLooped": true,
+  "FFlagReplicateAnimationLooped": false,
+  "FFlagAnimationTrackPlayProcessessLoopedAndPriority2": true,
+
+  "FFlagRigScaleShouldAffectAnimations": true,
+  "FFlagRestoreAnimationHipHeightScaling": false,
+  "FFlagRemapAnimationR6ToR15Rig": true,
+  "FFlagRemapR6Animation3": true,
+
+  "FFlagInterpolationAwareTargetTime": false,
+  "FFlagAnimationPrefixTiming": true,
+  "FFlagAnimationCurveDenseCacheEnabled6": false,
+
+  "DFFlagAnimatorIsThrottledPropertyEnabled2": true,
+  "DFFlagEnableClientAnimatorThrottlingMode": true,
+  "DFFlagReportClientAnimatorThrottlingStats": true,
+
+  "FFlagSimSkeletonNestedAttachments": true,
+  "DFFlagSafeAssignJointWorld": false,
+
+  "DFFlagReduceFacialAnimationsWhenFacsStreaming2": true,
+  "DFIntReduceFacialAnimationsAudioVideoMode": 999999,
+
+  "DFIntS2PhysicsSenderRate": 1,
+  "DFIntDataSenderRate": 1,
+
+  "DFIntReplicatorAnimationTrackLimitPerAnimator": 0,
+  "DFIntAnimatorTelemetryCollectionRate": 0,
+  "DFIntLoadStreamAnimationFailureTelemetryHundredthsPercentage": 0,
+  "DFIntReportAnimationTrackSpamInfluxHundrethsPercent": 0,
+  "DFFlagDebugEnableInterpThrottle": true
+}
