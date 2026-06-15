@@ -1,0 +1,9 @@
+{
+    "DFIntDebugLimitMinTextureResolutionWhenSkipMips": "2147483647",
+    "DFFlagDoNotSkipMipsBasedOnSystemMemoryPS": "True",
+    "FFlagTM2SkipMipsForUnstreamable2": "True",
+    "FIntDebugTextureManagerSkipMips": "8",
+    "FFlagEnablePowerTraceModule": "True",
+    "FFlagIncludePowerSaverMode": "True",
+    "RenderUseTextureManager224": "False"
+}
