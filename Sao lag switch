@@ -1,0 +1,7 @@
+{
+"S2PhysicsSenderRate": "1", 
+"PhysicsSenderMaxBandwidthBps": "9",
+"DFIntAnimationLodFacsDistanceMax": "0",
+"FLogNetwork": "7",
+"TaskSchedulerTargetFps": "81"
+}
