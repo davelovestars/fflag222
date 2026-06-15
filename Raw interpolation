@@ -1,0 +1,21 @@
+{
+  "DFFlagDebugMechanismInterpolationWorldSpace": "False",
+  "DFIntMaxFrameBufferSize": "4",
+  "DFIntInterpolationMinAssemblyCount": "1",
+  "DFIntGameplayNetInterpolationDistanceCorrectionSampleMillionth": "1000000",
+  "DFIntInterpolationFrameVelocityThresholdMillionth": "1",
+  "DFIntCheckPVDifferencesForInterpolationMinVelThresholdStudsPerSecHundredth": "0",
+  "DFIntInterpolationFrameRotVelocityThresholdMillionth": "1",
+  "DFFlagSimLocalBallSocketInterpolation": "True",
+  "DFIntInterpolationFramePositionThresholdMillionth": "1",
+  "DFIntCheckPVDifferencesForInterpolationMinRotVelThresholdRadsPerSecHundredth": "0",
+  "DFIntMaxAverageFrameDelayExceedFactor": "0",
+  "DFIntInterpolationNumMechanismsBatchSize": "4",
+  "DFIntInterpolationNumMechanismsPerTask": "4",
+  "DFIntInterpolationNumParallelTasks": "350",
+  "DFIntMaxInterpolationRecursionsBeforeCheck": "50",
+  "DFIntNumFramesToKeepAfterInterpolation": "2",
+  "FFlagInterpolationAwareTargetTime": "False",
+  "DFIntTargetTimeDelayFacctorTenths": "11",
+  "FIntInterpolationMaxDelayMSec": "500"
+}
