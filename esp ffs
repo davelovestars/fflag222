@@ -1,0 +1,15 @@
+{
+  "DebugDraw3dAudioInfo": true,
+  "DebugDrawControllerManagerAdorns": true,
+  "DebugDrawControllerSensorDataFindLadder": true,
+  "DebugDrawEnable": true,
+  "DebugDrawEngineContext": true,
+  "DebugDrawLODExtents": true,
+  "DebugDrawNavTrussClimbing": true,
+  "DebugDrawOcclusionPaths": true,
+  "DebugDrawVolumetricEmitter": true,
+  "DebugDrawVolumetricPanning": true,
+  "EnableOctreeDebugDraw": true,
+  "HumanoidRigDescriptionDebugDraw": true,
+  "VoiceMetricsDebugDrawEnabled4": true
+}
