@@ -46,7 +46,6 @@
   "DFIntDataSenderRate": "9",
   "DFIntAnimationLodFacsDistanceMax": "0",
   "DFIntReportOutputDeviceInfoRateHundredthsPercentage": "0",
-  "FStringTerrainMaterialTable2022": "",
   "FIntDefaultMeshCacheSizeMB": "256",
   "DFIntMaxProcessPacketsJobScaling": "10000",
   "DFIntUserIdPlayerNameCacheSize": "33554432",
