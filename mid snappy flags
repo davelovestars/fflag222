@@ -102,8 +102,6 @@
   "FIntUnifiedLightingBlendZone": "0",
   "FIntVertexSmoothingGroupTolerance": "0",
   "FLogNetwork": "7",
-  "FStringTerrainMaterialTable2022": "",
-  "FStringTerrainMaterialTablePre2022": "",
   "FFlagAddDMLogging": "False",
   "FFlagAnimationClipMemCacheEnabled": "True",
   "FFlagAssetPreloadingIXP": "True",
