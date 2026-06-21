@@ -218,8 +218,6 @@
     "FIntDebugFRMOptionalMSAALevelOverride": "0",
     "FIntNetworkThrottle": "1000",
     "FLogNetwork": "7",
-    "FStringTerrainMaterialTablePre2022": "",
-    "FStringTerrainMaterialTable2022": "",
     "FStringGetPlayerImageDefaultTimeout": "1",
     "SFFlagGroundControllerBalancingResponsiveness": "2147483647",
     "SFFlagGroundControllerTurningResponsiveness": "2147483647",
