@@ -185,7 +185,6 @@
 "DFStringCrashUploadToBacktraceBaseUrl": "null",
 "FFlagDebugSkyGray": "True",
 "FFlagGameBasicSettingsFramerateCap5": "False",
-"FStringTerrainMaterialTablePre2022": "",
 "DFIntHttpRbxApiMaxBudgetMultiplier": "2",
 "DFIntCoreScriptsAnalyticsHundredthsPercentage": "0",
 "DFIntDownloadEpisodeTimerFreqeuncyInMs": "100",
