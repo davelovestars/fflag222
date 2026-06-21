@@ -128,8 +128,6 @@
     "FLogNetwork": "7",
 
     "FStringVoiceBetaBadgeLearnMoreLink": "null",
-    "FStringTerrainMaterialTablePre2022": "",
-    "FStringTerrainMaterialTable2022": "",
 "DFFlagPlayerHumanoidPropertyUpdateRestrict": "False",
     "DFFlagDebugRenderForceTechnologyVoxel": "True",
     "DFFlagSimHumanoidTimestepModelUpdate": "True",
@@ -225,7 +223,6 @@
   "FFlagUserFixLoadAnimationError": "True",
   "DFFlagWindowsWebViewTelemetryEnabled": "False",
   "DFFlagDisableDPIScale": "True",
-  "FStringTerrainMaterialTablePre2022": "",
   "DFIntEnableVisBugChecksHundredthPercent": "1000",
   "FFlagMessageBusCallOptimization": "True",
   "FIntPGSAngularDampingPermilPersecond": "0",
