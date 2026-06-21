@@ -252,7 +252,6 @@
   "FFlagUserFixLoadAnimationError": "True",
   "DFFlagWindowsWebViewTelemetryEnabled": "False",
   "DFFlagDisableDPIScale": "True",
-  "FStringTerrainMaterialTablePre2022": "",
   "DFIntEnableVisBugChecksHundredthPercent": "1000",
   "FFlagMessageBusCallOptimization": "True",
   "FIntPGSAngularDampingPermilPersecond": "0",
@@ -517,7 +516,6 @@
 
     "FLogNetwork": "7",
 
-    "FStringTerrainMaterialTablePre2022": "",
 
     "SFFlagGroundControllerBalancingResponsiveness": "2147483647",
     "SFFlagGroundControllerTurningResponsiveness": "2147483647"
