@@ -113,7 +113,6 @@
   "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
   "FStringVoiceBetaBadgeLearnMoreLink": null,
   "FFlagShoeSkipRenderMesh": false,
-  "FStringTerrainMaterialTablePre2022": "",
   "FFlagMovePrerenderV2": true,
   "FFlagRenderDynamicResolutionScale9": true,
   "FIntRenderGrassDetailStrands": 0,
