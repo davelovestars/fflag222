@@ -31,7 +31,6 @@
   "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
   "FIntStudioWebView2TelemetryHundredthsPercent": "0",
   "FFlagEnableInGameMenuChromeABTest4": "True",
-  "FStringTerrainMaterialTablePre2022": "",
   "DFIntEnableVisBugChecksHundredthPercent": "1000",
   "FFlagSyncWebViewCookieToEngine2": "False",
   "FIntSmoothTerrainPhysicsCacheSize": "0",
