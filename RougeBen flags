@@ -101,8 +101,6 @@
 
     "FLogNetwork": "7",
 
-    "FStringTerrainMaterialTablePre2022": "",
-
     "SFFlagGroundControllerBalancingResponsiveness": "2147483647",
     "SFFlagGroundControllerTurningResponsiveness": "2147483647"
 }
