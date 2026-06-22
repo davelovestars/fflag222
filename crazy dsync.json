@@ -14,7 +14,6 @@
   "FFlagHandleAltEnterFullscreenManually": false,
   "DFIntCanHideGuiGroupId": 32380007,
   "FStringGetPlayerImageDefaultTimeout": 1,
-  "FStringTerrainMaterialTable2022": "",
   "DFIntAnimationLodFacsVisibilityDenominator": 0,
   "FIntUnifiedLightingBlendZone": 1,
   "FFlagLuaMenuPerfImprovements": true,
