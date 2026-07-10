@@ -3,5 +3,5 @@
 "PhysicsSenderMaxBandwidthBps": "9",
 "DFIntAnimationLodFacsDistanceMax": "0",
 "FLogNetwork": "7",
-"TaskSchedulerTargetFps": "81"
+"TaskSchedulerTargetFps": "144"
 }
