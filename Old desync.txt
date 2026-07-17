@@ -279,4 +279,5 @@
   "FStringErrorUploadToBacktraceBaseUrl": "http://opt-out.roblox.com",
   "FFlagRenderGpuTextureCompressor": "True",
   "FIntUITextureMaxRenderTextureSize": "1024",
-  "DFIntReportOutputDeviceInfoRateHundredthsPercentage": "0",
+  "DFIntReportOutputDeviceInfoRateHundredthsPercentage": "0"
+}
