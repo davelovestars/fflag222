@@ -19,6 +19,8 @@
   "FFlagUserCameraGamepadZoomFix": "True",
   "FFlagUserFixGamepadMaxZoom": "True",
   "FFlagUserPSFixCameraControllerReset": "True",
+  "FIntCameraMaxZoomDistance": "400",
+  "FIntMaxCameraMaxZoomDistance": "400",
   "FFlagNewCameraControls": "True",
   "FFlagNewCameraControls_BetaUpdate2": "True",
   "FFlagUserPlayerScriptsCameraInputNoBindables": "True",
