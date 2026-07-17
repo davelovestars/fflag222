@@ -193,5 +193,5 @@
    "DFIntS2PhysicsSenderRate": "1",
    "DFIntMaxFrameBufferSize": "4",
    "DFIntDataSenderRate": "1",
-   "DFIntRakNetLoopMs": "1",
+   "DFIntRakNetLoopMs": "1"
 }
