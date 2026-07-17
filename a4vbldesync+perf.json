@@ -10,7 +10,6 @@
   "ServerAuthorityTimestampsInHeader": 999,
   "ServerAuthorityUpdateAllInstanceTimestamps3": 2147483647,
   "ISRTimestampOffsets": 999999999,
-  "IsrTimestampOffsetSmoothingHundredths": 1000000000,
   "AddTimestampToChatMessage2": 7777777,
   "NetworkPacketsReceive": -1,
   "ClientPacketLimiting": 999999,
