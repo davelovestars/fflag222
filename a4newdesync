@@ -128,7 +128,6 @@
   "DFIntMaxInterpolationRecursionsBeforeCheck": 50,
   "DFIntNumFramesToKeepAfterInterpolation": 2,
   "FFlagInterpolationAwareTargetTime": false,
-  "FIntInterpolationMaxDelayMSec": 500,
   "DFIntTargetTimeDelayFacctorTenths": 13,
   "DFIntMaxAverageFrameDelayExceedFactor": 0,
   "DFFlagDisableDPIScale": "True",
