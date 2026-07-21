@@ -1,1 +1,25 @@
-
+{
+    "FontSizePadding": "1",
+    "DebugGraphicsPreferD3D11FL10": "False",
+    "RenderUseTextureManager224": "False",
+    "PerformanceControlTextureQualityBestUtility": "-1",
+    "DebugTextureManagerSkipMips": "5",
+    "MaxActiveAnimationTracks": "0",
+    "TextureQualityOverride": "0",
+    "CSGLevelOfDetailSwitchingDistance": "0",
+    "DebugGraphicsPreferD3D11": "True",
+    "CSGLevelOfDetailSwitchingDistanceL34": "0",
+    "HandleAltEnterFullscreenManually": "False",
+    "DebugFRMQualityLevelOverride": "1",
+    "CSGLevelOfDetailSwitchingDistanceL12": "0",
+    "GraphicsGLEnableSuperHQShadersExclusion": "False",
+    "CSGLevelOfDetailSwitchingDistanceL23": "0",
+    "ClusterEstimatedCompressionRatioHundredths": "0",
+    "GraphicsGLEnableHQShadersExclusion": "False",
+    "MegaReplicatorNetworkQualityProcessorUnit": "10",
+    "ReportRecordingDeviceInfoRateHundredthsPercentage": "0",
+    "UITextureMaxRenderTextureSize": "1000",
+    "DebugEnableInterpolationVisualizer": "true",
+    "DisableDPIScale": "True",
+    "TouchSenderMaxBandwidthBpsScaling": "0"
+}
