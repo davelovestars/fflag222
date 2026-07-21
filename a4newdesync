@@ -169,7 +169,6 @@
   "DFIntReduceFacialAnimationsAudioVideoMode": 999999,
   "DFIntS2PhysicsSenderRate": 1,
   "DFIntDataSenderRate": 1,
-  "DFIntReplicatorAnimationTrackLimitPerAnimator": 0,
   "DFIntAnimatorTelemetryCollectionRate": 0,
   "DFIntLoadStreamAnimationFailureTelemetryHundredthsPercentage": 0,
   "DFIntReportAnimationTrackSpamInfluxHundrethsPercent": 0,
