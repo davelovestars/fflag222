@@ -7,7 +7,6 @@
 "CyclicExecutiveWorldSteps":0,
 "ISRInstanceBlockTimeoutWorldSteps":99999999,
 "MaxMissedWorldStepsRemembered":0,
-"ISRTimestampOffsets":999999999,
 "AddTimestampToChatMessage2":7777777,
 "NetworkPacketsReceive":-1,
 "ClientPacketMaxDelayMs":1,
